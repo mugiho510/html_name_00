@@ -1,0 +1,273 @@
+
+/* ここから下に記載していく */
+
+.all{width:1200px;}
+.header{display:flex;}
+.img1{width:650px;
+      margin:0 auto;
+     }
+
+.select{font: size 21px;
+        color:black;
+        width:auto;
+        height:auto;
+        margin: auto;
+        display: flex;
+        justify-content:center;}
+
+.ABOUT{margin:50px 25px 50px 50px;}
+.COURSE{margin:50px 25px 50px 50px;}
+.NEWS{margin:50px 25px 50px 50px;}
+.ACCESS{margin:50px 25px 50px 50px;}
+.CONTACT{margin:50px 25px 50px 50px;}
+
+
+.midashi1{text-align: center;
+          padding:10%;
+        background-image:url(../img/mainbg.png);
+        background-position: center;
+        background-repeat: no-repeat;}
+.midashi1-1{font-size: 60px;
+                color:white;
+                font-style: inherit;
+                text-shadow: black;}
+.midashi1-2{margin-top:30px;
+                font-size: 20px;
+                color:white;}
+            
+#title1{margin-top: 60px;
+        text-align: center;
+        font-size:24px; 
+        color:#ffd61a;}
+
+.title2{margin-top: 30px;
+        text-align: center;
+        font: size 24px; ;}
+
+.exp1 {margin-top: 60px;
+        text-align: center;}
+.exp2 {margin-top: 60px;
+        text-align: center;}
+.exp3 {margin-top: 60px;
+       text-align: center;
+        margin-bottom: 80px;}
+
+.gazou4{display:flex;
+        justify-content:center;}
+
+.course1{text-align: center;
+        margin-top:30px;
+        margin-bottom: 80px;}
+
+#course1-1{text-align: center;
+                height:60px;
+                font-size: 24px;
+                font-weight: 500;
+                color:#ffd61a;}
+
+.course1-2{text-align: center;
+        height:30px;
+        font-size: 16px;
+        font-weight: 100;}
+
+.course2{margin-top:60px;
+        display: flex;
+        justify-content:center;}
+
+.course2p{text-align: right;}
+
+.course2s{margin-top: 120px;
+        margin-bottom: 120px;
+        margin-left: 50px;
+        margin-right:50px;
+        width: 480px;}
+.course2-1{text-align:center ;
+                font-size: 18px;}
+.course2-2{margin-top: 40px;
+                font-size: 16pxl;}
+        
+.course3{display: flex;
+        justify-content:center;}
+.course3s{margin-top: 120px;
+        margin-bottom: 120px;
+        margin-left: 50px;
+        margin-right:50px;
+        width: 480px;}
+.course3-1{text-align:center ;
+                font-size: medi18px;}
+.course3-2{margin-top: 40px;
+                font-size: 16pxl;}
+
+.course4{display: flex;
+        justify-content:center;}
+.course4s{margin-top: 120px;
+        margin-bottom: 120px;
+        margin-left: 50px;
+        margin-right:50px;
+        width: 480px;}
+.course4-1{text-align:center ;
+                font-size: 18px;}
+.course4-2{margin-top: 40px;
+                font-size: 16px;}                
+
+#NEWS1{margin-top: 60px;
+        font-size: 24px;
+        text-align: center;
+        color:#ffd61a}
+.NEWS2{margin-top: 30px;
+        margin-bottom: 60px;
+        font-size: 16px;
+        text-align: center;}
+
+.NEWSp{display: flex;
+        justify-content:center;}
+
+.NEWSp1{margin-right: 30px;
+        width: 300px;}
+.NEWSp1:hover{color:red;}
+
+.newsdate{margin-top: 30px;
+        margin-bottom: 24px;}
+.newssentence{margin-right: 100px;}
+
+.more{  font-size: 24px;
+        margin-top:60px;
+        margin-bottom:60px;
+        margin-left:auto;
+        margin-right:auto;
+        width:300px;
+        height: 60px;
+        padding-top: 30px;
+        background-color: yellow;
+        border:1px solid;
+        text-align: center;
+        }
+.more:hover{background-color:rgb(244, 49, 49)}
+
+#Access1{text-align: center;
+        font-size: 24px;
+        margin-top: 60px;
+        color:#ffd61a;}
+
+.Access11{text-align: center;
+        margin-top: 30px;
+        font-size: 16px;}
+.Access12{margin:0 auto;}
+.Access111{display: flex;
+        justify-content: center;}
+.PIC1 {margin: 60px;
+        height: 300px;
+        width: 1000px;}
+.list1{text-align: left;
+        margin: auto;
+        width: 500px;
+        }
+.list11{height:50px;
+        margin-top:30px;}
+
+#contact1{text-align: center;
+        font-size: 24px;
+        margin-top: 60px;
+        color: #ffd61a;}
+
+.contact2{text-align: center;
+                font-size: 16px;
+                margin-top: 30px;}
+
+.contact3{text-align: center;
+                font-size: 16px;
+                margin-top: 60px;}
+
+.contact4{text-align: center;
+        font-size: 16px;
+        margin-top: 30px;}
+
+.contact-form{margin-top: 70px;
+                display: flex;
+                justify-content: center;}
+.table{width: 528px;}
+.table th{width:350px;
+    text-align: center;
+          height:36px;
+        margin-left:16px; 
+        margin-right: 64px;
+        margin-top:8px ;
+        margin-bottom: 8px;
+        padding:8px;
+        padding-left:8px ;
+        border-right: black 1px solid;
+        border-bottom:black 1px solid;
+        border-top:black 1px solid;}
+.table td{
+        height:60px;
+        margin:8px ;      
+        border-bottom:black 1px solid;
+        border-left:black 1px solid;
+        border-top:black 1px solid;     }
+
+.tableline1{margin-top:8px;}
+.TL1D{padding: 8px;       
+        width:200px;}
+.TL2D{padding: 8px;
+        width:200px;}
+.TL3D{padding: 8px;
+        width:200px;}
+.TL4D{padding: 8px;
+        width:200px;}
+
+.TL1H{margin-right: 16px;
+        margin-left: 8px;}
+.TL2H{margin-right: 16px;
+                margin-left: 8px;}
+.TL3H{margin-right: 16px;
+                        margin-left: 8px;}
+.TL4H{margin-right: 16px;
+        margin-left: 8px;}
+
+
+.tableline5{height:100px;}
+.TL5H{margin-right: 16px;
+        margin-left: 8px;}
+.TL5D{display:block;position: relative;
+        margin:60px;
+        border:black 1px solid ;
+        padding:20px;
+        height:260px;}
+
+#cb1{padding:8px;}
+#cb2{padding:8px;}
+#cb3{padding:8px;}
+#cb4{padding:8px;}
+
+.TL6H{margin-right: 16px;
+        margin-left: 8px;}
+.TL6D{padding: 8px;
+        width:400px;}
+
+
+
+.sousin{  font-size: 24px;
+        margin-top:30px;
+        margin-bottom:140px;
+        margin-left:auto;
+        margin-right:auto;
+        width:300px;
+        height: 60px;
+        padding-top: 30px;
+        background-color: yellow;
+        padding:8px;
+        padding-left:8px ;
+        border:black 1px solid;
+        text-align: center;
+        }
+.sousin:hover{background-color:rgb(244, 49, 49)}
+
+
+
+
+.footer{background-color: dimgrey;
+        text-align: center;
+        color:white;
+        font-size: 10px;
+        padding-top: 30px;
+        padding-bottom: 30px;}
